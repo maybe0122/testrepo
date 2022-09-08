@@ -58,11 +58,19 @@ for i in range(4):
     turtle.forward(100)
     turtle.right(90)
 
+turtle.penup()
+turtle.goto(250, 180)
+turtle.pendown()
+turtle.right(90)
+turtle.forward(180)
 
+turtle.penup()
+turtle.goto(110, 10)
+turtle.pendown()
+turtle.forward(90)
+turtle.left(90)
+turtle.forward(150)
 
-
-
-
-
+turtle.exitonclick()
 
 
