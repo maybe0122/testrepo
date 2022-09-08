@@ -67,7 +67,7 @@ turtle.forward(180)
 turtle.penup()
 turtle.goto(110, 10)
 turtle.pendown()
-turtle.forward(90)
+turtle.forward(80)
 turtle.left(90)
 turtle.forward(150)
 
